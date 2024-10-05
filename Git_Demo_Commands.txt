@@ -1,0 +1,21 @@
+Git commands
+
+1.Git Status//to check the status of repository
+2.git init//initializing git it will create folder for git
+3.git add . //for all the files(git add filename)
+4.git commit -m "photo"(document injected)
+5.git remote add origin(reference)//building connection from local to global
+6.git checkout -b (name) //our own branch if branch is not there
+7.git checkout branchname //to add to existing branch
+8.git pull origin branchname
+9.get push origin (name)
+
+
+git clone (reference)
+4.git reset(come out from there)
+5.git add (name)(realize and invite)
+6.git remote add (reference)  (for connecting the reference)
+7.git remote add origin(reference)
+8.git checkout -b (name) //our own branch if branch is not there
+git checkout branchname //to add to existing branch
+
